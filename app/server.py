@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://cdn-17.anonfile.com/xcU3jc0bob/dc8450db-1589674725/3plants.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1VLBhWOJ29b42C1lPvEF0oVOLyas1SKz4'
 export_file_name = '3plants.pkl'
 
 classes = ['eunonymus', 'petunia', 'thuja']
